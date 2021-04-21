@@ -1,0 +1,7 @@
+pytest-django
+requests
+django
+djangorestframework
+pytils
+django-filter
+djangorestframework-simplejwt
