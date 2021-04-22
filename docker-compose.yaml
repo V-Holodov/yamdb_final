@@ -12,7 +12,7 @@ services:
       - ./.env
 
   web:
-    build: .
+    image: sergeyrodin/yamdb:latest
     restart: always
     volumes:
       - static_value:/code/static/
