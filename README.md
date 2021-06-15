@@ -1,9 +1,5 @@
 # YaMDb
 
-![example workflow](https://github.com/v-holodov/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
-![example workflow](https://github.com/v-holodov/foodgram-project/actions/workflows/fg_workflow.yml/badge.svg)
-
-
 ## Описание
 **YaMDb** - это REST API для проекта по сбору отзывов пользователей на произведения в категориях "Книги", "Фильмы" и "Музыка". Пользователи оставляют к произведениям текстовые отзывы и выставляют произведению рейтинг (оценку в диапазоне от одного до десяти). Из множества оценок автоматически высчитывается средняя оценка произведения.
 
