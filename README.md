@@ -1,6 +1,7 @@
 # YaMDb
 
 ![example workflow](https://github.com/v-holodov/yamdb_final/actions/workflows/yamdb_workflow.yml/badge.svg)
+![example workflow](https://github.com/v-holodov/foodgram-project/actions/workflows/fg_workflow.yml/badge.svg)
 
 
 ## Описание
@@ -62,8 +63,6 @@ docker-compose exec web python manage.py loaddata fixtures.json
 ```
 ## Документация API
 Документация API доступна по адресу [http://127.0.0.1/redoc/](http://127.0.0.1/redoc/)
-## Об авторе
-Проект подготовлен студентом 10-й когорты бэкенд-факультета Яндекс-Практикума Виталием Холодовым.
 
-## Лицензия
-MIT
+## Об авторе
+Проект подготовлен выпускником бэкенд-факультета Яндекс-Практикума [Виталием Холодовым ](https://www.linkedin.com/in/v-holodov/).
